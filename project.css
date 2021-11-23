@@ -1,0 +1,153 @@
+.all{
+    background-color: #202649;
+}
+
+.nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    box-shadow: 0px 10px 20px rgba(0, 0, 0, 0.38);
+}
+
+.nne{
+    font-size: 30px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 700;
+    line-height: 35px;
+    margin: 16px 0 16px 30px;
+    font-style: normal;
+    text-decoration:none;
+    
+}
+.nne:hover{
+    border-bottom: 2px solid blue;
+}
+
+.links{
+    list-style-type: none;
+    display: flex; 
+    margin-left: 272px;
+}
+
+.home{
+   margin: 16px 0 26px 0;
+   border-bottom: 3px solid #ffffff;
+   text-decoration: none;
+   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+   font-size: 18px;
+   font-style: bold;
+}
+.home:hover{
+    border-bottom: 2px solid blue;
+}
+
+.back{
+    padding: 0 15px;
+    margin: 16px 0 26px 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 18px;
+    font-style: bold;
+    text-decoration: none;
+}
+
+.back:hover{
+    border-bottom: 2px solid blue;
+    
+}
+
+.pro{
+    margin: 16px 0 26px 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 18px;
+    font-style: bold;
+    text-decoration: none;
+}
+
+.pro:hover{
+    border-bottom: 2px solid blue;
+}
+
+
+.but{
+    box-sizing: border-box;
+    padding: 11px 32px;
+    margin: 13px 30px 14px 0;
+    background-color: transparent;
+    border-radius: 5px;
+    border:  1px solid #FFFFFF;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 12px;
+    font-weight: bold;
+    line-height: 14px;
+}
+
+.obs:hover{
+    border-bottom: 1px solid blue;
+}
+
+.img4{
+    width: 379px;
+    height: 495px;
+    margin-left: 31px;
+    margin-top: 103px;
+}
+
+.way{
+    background-color: #202649;
+    position: absolute;
+    width: 379px;
+    height: 55px;
+    top: 598px;
+    left: 31px;
+}
+
+.sum{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    margin: 14px 57px 13px 106px;
+    font-size: 24px;
+    font-style: normal;
+}
+
+.did{
+    position: absolute;
+    width: 379px;
+    height: 550px;
+    left: 31px;
+    top: 103px;
+}
+
+.img5{
+    position: absolute;
+    width: 376px;
+    height: 495px;
+    left: 453px;
+    top: 103px;
+}
+
+.oh{
+    position: absolute;
+    width: 376px;
+    height: 55px;
+    left: 453px;
+     top: 598px;
+     background: #202649;
+
+}
+
+.lag{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    margin: 14px 57px 13px 106px;
+    font-size: 24px;
+    font-style: normal;
+}
+
+.drive{
+    position: absolute;
+    width: 376px;
+    height: 495px;
+    left: 453px;
+    top:598px;
+
+}
